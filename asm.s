@@ -1,4 +1,4 @@
-# Get the fp 
+# Functions to get frame pointer and stack pointer
 
     .text
     .align 8             # align by 8 words
